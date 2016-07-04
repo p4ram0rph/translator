@@ -1,0 +1,4 @@
+requests
+yandex.translate
+pyaudio
+
